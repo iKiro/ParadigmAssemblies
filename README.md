@@ -1,2 +1,2 @@
-ParadigmScripts
+ParadigmAssemblies
 ===============
